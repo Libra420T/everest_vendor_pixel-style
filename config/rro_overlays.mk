@@ -14,6 +14,38 @@
 # limitations under the License.
 #
 
+# RRO Overlays
+PRODUCT_PACKAGES += \
+    RomConfigOverlay \
+    PixelLauncherIconsOverlay
+
 # Google Overlays
 PRODUCT_PACKAGES += \
-    PixelLauncherCustomOverlay
+    AccessibilityMenuOverlay \
+    BuiltInPrintServiceOverlay \
+    ClearCallingSettingsOverlay2022 \
+    ContactsProviderOverlay \
+    DMServiceOverlay \
+    FlipendoOverlay \
+    MediaProviderOverlay \
+    PixelDocumentsUIGoogleOverlay \
+    PixelLauncherCustomOverlay \
+    SettingsGoogleOverlayPixel2022 \
+    SettingsProviderOverlay \
+    SystemUIGoogleOverlay \
+    TeleServiceOverlay \
+    TelecomOverlay \
+    TelephonyProviderOverlay \
+    TeleServiceOverlay \
+    WildlifeSettingsVpnOverlay2022 \
+    WildlifeSysuiVpnOverlay2022 \
+    CarrierSettingsConfigOverlay \
+    CarrierSettingsOverlay \
+    CarrierSettingsProviderOverlay \
+    CarrierSettingsSystemUIOverlay \
+    NowPlayingOverlay \
+    PixelBatteryHealthOverlay \
+    PixelDisableLEDOverlay \
+    PixelDisplayServiceOverlay \
+    PixelConnectivityOverlay2022 \
+    DreamlinerOverlay
