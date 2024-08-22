@@ -17,7 +17,6 @@
 # RRO Overlays
 PRODUCT_PACKAGES += \
     RomConfigOverlay \
-    PixelLauncherIconsOverlay
 
 # Google Overlays
 PRODUCT_PACKAGES += \
