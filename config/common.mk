@@ -62,8 +62,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Inherit from audio config
 $(call inherit-product, vendor/pixel-style/config/audio.mk)
 
-# Inherit from rro_overlays config
-$(call inherit-product, vendor/pixel-style/config/rro_overlays.mk)
-
 # Inherit from textclassifier config
 $(call inherit-product, vendor/pixel-style/config/textclassifier.mk)
